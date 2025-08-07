@@ -131,7 +131,7 @@ project_root/
 | `--api-key KEY` | Override API key | `--api-key "your_key_here"` |
 | `--cache-dir DIR` | Override cache directory | `--cache-dir "my_cache"` |
 | `--data-dir DIR` | Override data directory | `--data-dir "my_data"` |
-| `--workers N` | Set concurrent workers (1-10) | `--workers 3` |
+| `--workers N` | Set concurrent workers (1-5) | `--workers 3` |
 | `--log-level LEVEL` | Set logging level | `--log-level DEBUG` |
 
 ### Utilities
