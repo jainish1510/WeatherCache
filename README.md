@@ -156,11 +156,11 @@ WeatherCache processes CSV files with the following structure:
 ### Example CSV
 ```csv
 date,time,city,region
-2025-08-05,09:00:00,London,GB,Europe
-2025-08-05,12:00:00,Paris,FR,Europe
-2025-08-05,15:00:00,Tokyo,JP,Asia
-2025-08-05,18:00:00,New York,US,North America
-2025-08-06,09:00:00,Sydney,AU,Oceania
+2025-08-05,09:00:00,"London,GB",Europe
+2025-08-05,12:00:00,"Paris,FR",Europe
+2025-08-05,15:00:00,"Tokyo,JP",Asia
+2025-08-05,18:00:00,"New York,US",North America
+2025-08-06,09:00:00,"Sydney,AU",Oceania
 ```
 
 ## 🎨 Generated Visualizations
